@@ -45,7 +45,7 @@ Exporting invis props to `.map` as brushes works perfectly, without any issues, 
 And they are converted to standard `.map` brushes, without irregular shapes.  
 _(tested: boxes and cylinders, both invis and opaque)_  
 
-_Note:
+_Note:_  
 _Some complex props break the exporter very heavily._  
 _You will need to experiment removing different props, until the geometry stops getting borked on export._  
 
