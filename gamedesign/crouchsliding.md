@@ -3,7 +3,7 @@ _Why this mechanic turned the original Quake 4 into a cpm-style fast paced game,
 _and how that fits into 3D fpracing physics_  
 
 _This article became a bit longer than expected._
-_Go to [Conclusion]() to read just the tl;dr version._  
+_Go to [Conclusion](https://github.com/heysokam/docs/blob/master/gamedesign/crouchsliding.md#conclusion---tldr) to read just the tl;dr version._  
 ## Overview
 Quake was originally made for multiplayer pvp.  
 But the movement code/mechanics have sticked with us throughout the years.  
