@@ -7,9 +7,9 @@ _(props will be ignored, only works for blocks)_
 5.   Import the resulting model to Source or Q3 engine  
 
 ## Exporting as .map
-It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified. There is an addon for it in quBit's blender trello board
-I think it might be better to export as model and use autoclip, since geometry is simple enough. 
-But haven't tested that process yet.
+It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified. There is an addon for it in quBit's blender trello board  
+I think it might be better to export as model and use autoclip, since geometry is simple enough.   
+But haven't tested that process yet.  
 
 For reference:  
 `Microaltar` exported to brushes no problm, but it was 12mb and took half an hour.  
