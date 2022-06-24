@@ -7,8 +7,8 @@ _(props will be ignored, only works for blocks)_
 5.   Export the resulting model to Source or Q3 engine  
 
 ## Exporting as .map
-It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified.
-[.map exporter](https://trello.com/c/6Zml1gSu/149-quake-3-map-brush-exporter-addon-for-blender)
+It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified.  
+[.map exporter](https://trello.com/c/6Zml1gSu/149-quake-3-map-brush-exporter-addon-for-blender)  
 I think it might be better to export as model and use autoclip, since geometry is simple enough.   
 But haven't tested that process yet. _(see exporting as q3-model section)_  
 
@@ -35,6 +35,6 @@ With this method:
 Its doable, and faster than cleaning up in radiant, but it takes a bit of getting used to the process and Blender.  
 
 ## Exporting as Q3 model
-_TBD. Related info:_
-[about models](https://trello.com/c/sE516Emm/161-about-models)
-[md3-exporter](https://trello.com/c/aMEbgAXC/151-bsp-lightmapper-bake-lightmaps-in-blender-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-md3-exporter-with-custom-normals%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-bsp-importer)
+_TBD. Related info:_  
+[about models](https://trello.com/c/sE516Emm/161-about-models)  
+[md3-exporter](https://trello.com/c/aMEbgAXC/151-bsp-lightmapper-bake-lightmaps-in-blender-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-md3-exporter-with-custom-normals%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-bsp-importer)  
