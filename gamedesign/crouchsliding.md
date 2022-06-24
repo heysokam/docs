@@ -9,7 +9,8 @@ Quake was originally made for multiplayer pvp.
 But the movement code/mechanics have sticked with us throughout the years.  
 
 Quake3 movement was "slow".  
-It was argued that it wasn't "pro" and skillful enough. And that they removed all of the charm that QuakeWorld/Quake2 had with their ramp mechanics and AD turning.  
+It was argued that it wasn't "pro" and skillful enough.  
+And that they removed all of the charm that QuakeWorld/Quake2 had with their ramp mechanics and AD turning.  
 
 Or at least that's what some Quake fans thought back in the day.   
 So they figured they could improve vq3 by adding back those mechanics, that were really good about previous Quake games, but that the developers were not implementing into their new games themselves.   
@@ -120,7 +121,6 @@ So, you could argue that they are not distinct, and one of them should be reject
 But this is where I saw something different, and how I think crouchsliding fits 3D fpracing games.  
 This is the reason why this text exists.  
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ***
 
 # Conclusion   (TL;DR)
