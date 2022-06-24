@@ -4,7 +4,7 @@ _(props will be ignored, only works for blocks)_
 2.   Import the file to blender
 3.   Add `Weld` modifier set to `1m`, and apply it  
 4.   Add `Decimate` modifier, set to `Planar : 45deg : UV`, and apply it  
-5.   Import the resulting model to Source or Q3 engine  
+5.   Export the resulting model to Source or Q3 engine  
 
 ## Exporting as .map
 It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified. There is an addon for it in quBit's blender trello board  
