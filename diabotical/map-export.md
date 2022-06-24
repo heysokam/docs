@@ -1,6 +1,6 @@
 ## How to export Diabotical maps
 _(props will be ignored, only works for blocks)_
-1.   `/export themap` will give you an `obj` file
+1.   `/export themap` will give you an `obj` file _(outputs to install folder, not to /homedir)_
 2.   Import the file to blender
 3.   Add `Weld` modifier set to `1m`, and apply it  
 4.   Add `Decimate` modifier, set to `Planar : 45deg : UV`, and apply it  
