@@ -41,7 +41,9 @@ Its doable, and faster than cleaning up in radiant, but it takes a bit of gettin
 3.   Import the file to blender
 4.   Export the resulting model to Source or Q3 engine  
 
-Exporting invis props to `.map` as brushes _(tested: boxes and cylinders, both invis and opaque)_ works perfectly, without any issues, if there is nothing else in the map. And they are converted to standard `.map` brushes, without irregular shapes.  
+Exporting invis props to `.map` as brushes works perfectly, without any issues, if there is nothing else in the map.  
+And they are converted to standard `.map` brushes, without irregular shapes.  
+_(tested: boxes and cylinders, both invis and opaque)_  
 
 _Note:
 _Some complex props break the exporter very heavily._  
