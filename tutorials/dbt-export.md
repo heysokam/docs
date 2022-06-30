@@ -6,7 +6,7 @@
 4.   Add `Decimate` modifier, set to `Planar : 45deg : UV`, and apply it  
 5.   Export the resulting model to Source or Q3 engine  
 
-_note: "adding" a modifier, and "applying" a modifier, are completely different concepts in Blender_
+_note: "adding" and "applying" a modifiers, are completely different concepts in Blender_
 
 ## Scale (dbt to q3df/mmdf)
 1. Scale Z by `1.1`  
