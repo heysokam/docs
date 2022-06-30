@@ -6,6 +6,13 @@
 4.   Add `Decimate` modifier, set to `Planar : 45deg : UV`, and apply it  
 5.   Export the resulting model to Source or Q3 engine  
 
+## Scale (dbt to q3df/mmdf)
+1. Scale Z by `1.1`  
+2. Scale X and Y by `1.2`  
+
+This makes 40u high blocks into 44u, which is max skimmable.  
+And everything else 48u, which is the scale equivalent (roughly) from dbt to defrag.
+
 ## Exporting as .map
 It's possible to export as `.map`, but it takes a long time for the exporting of big maps, even with geometry simplified.  
 [.map exporter](https://trello.com/c/6Zml1gSu/149-quake-3-map-brush-exporter-addon-for-blender)  
