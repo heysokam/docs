@@ -11,7 +11,7 @@
 2. Scale X and Y by `1.2`  
 
 This makes 40u high blocks into 44u, which is max skimmable.  
-And everything else 48u, which is the scale equivalent (roughly) from dbt to defrag.
+And everything else 48u, which is the scale equivalent (roughly) from dbt to defrag.  
 Stairs will need to be adjusted manually:  
 - They will become 22u, but max stair stepping size in df is 18
 - Add one 11u step in between every other dbt step, so they become walkable again
